@@ -17,7 +17,7 @@ Use in ImageJ (FIJI) using the .ijm language
 Instructions:
 1. Drag and drop appropriate macro into FIJI
 2. Click Run
-3. Select Folder where your .TIF files are stored. NOTE, if you have .lif files, these will need to be saved as individual tifs. Follow instructions on: 
+3. Select Folder where your .TIF files are stored. NOTE, if you have .lif files, these will need to be saved as individual tifs. Follow instructions on: https://github.com/MarnieMaddock/Lif_to_Tif
 4. Open one image and note down which channel corresponds to nuclei, live cells, dead cells etc.
 5. For these macros, it is set up for:
 - Channel 1 = Nuclei stain
